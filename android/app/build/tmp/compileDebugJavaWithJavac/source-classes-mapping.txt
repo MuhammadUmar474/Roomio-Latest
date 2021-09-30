@@ -1,0 +1,16 @@
+com/roomio/MainApplication.java
+ com.roomio.MainApplication
+ com.roomio.MainApplication$1
+com/roomio/MainActivity.java
+ com.roomio.MainActivity
+com/roomio/BuildConfig.java
+ com.roomio.BuildConfig
+com/roomio/SplashActivity.java
+ com.roomio.SplashActivity
+com/roomio/ReactNativeFlipper.java
+ com.roomio.ReactNativeFlipper
+ com.roomio.ReactNativeFlipper$1
+ com.roomio.ReactNativeFlipper$2
+ com.roomio.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

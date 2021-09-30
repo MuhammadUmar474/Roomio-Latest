@@ -1,0 +1,58 @@
+{
+  "_from": "react-native-range-datepicker",
+  "_id": "react-native-range-datepicker@1.9.1",
+  "_inBundle": false,
+  "_integrity": "sha512-CIhTbenWyOo30R6UiuvQdM2giaRHQorhu7ML7tQDFcGiukamCFNn+jT+FDC9dBbDPuByAIY9nWFAJu+8D9fVWg==",
+  "_location": "/react-native-range-datepicker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-range-datepicker",
+    "name": "react-native-range-datepicker",
+    "escapedName": "react-native-range-datepicker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-range-datepicker/-/react-native-range-datepicker-1.9.1.tgz",
+  "_shasum": "bb01f0aa850cbc965cc12420b40abc66f2c7a78f",
+  "_spec": "react-native-range-datepicker",
+  "_where": "C:\\Users\\manaf\\Roomio",
+  "author": {
+    "name": "Hanson Citra",
+    "email": "hansoncitra@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/apaajabolehd/react-native-range-datepicker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "moment": "^2.17.1",
+    "prop-types": "^15.6.0"
+  },
+  "deprecated": false,
+  "description": "React native range datepicker (inspired by Airbnb Datepicker)",
+  "homepage": "https://github.com/apaajabolehd/react-native-range-datepicker#readme",
+  "keywords": [
+    "react-native",
+    "datepicker",
+    "range",
+    "javascript"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-range-datepicker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apaajabolehd/react-native-range-datepicker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.9.1"
+}
